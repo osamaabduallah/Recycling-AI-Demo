@@ -1,0 +1,13 @@
+# Trained models
+*.pt
+*.pth
+
+# Datasets
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VSCode settings
+.vscode/
